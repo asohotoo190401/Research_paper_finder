@@ -1,4 +1,4 @@
-# PaperFinder — a research paper search engine
+# PaperFinder  a research paper search engine
 
 Final project for the Text Mining / Information Retrieval course.
 
