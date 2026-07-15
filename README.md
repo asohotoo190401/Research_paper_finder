@@ -1,8 +1,8 @@
-# PaperFinder — a research paper search engine
+# PaperFinder  a research paper search engine
 
 Final project for the Text Mining / Information Retrieval course.
 
-**Problem.** Relevant research is scattered across platforms, and keyword search on any single one misses papers that live elsewhere or are described with different vocabulary. PaperFinder collects paper metadata from two independent sources — the arXiv API and the Semantic Scholar Graph API — integrates and deduplicates them into a single corpus, and provides ranked full-text search over titles and abstracts using three retrieval models (Boolean, TF-IDF vector space, BM25), plus K-means topic clustering and a quantitative + qualitative evaluation.
+**Problem.** Relevant research is scattered across platforms, and keyword search on any single one misses papers that live elsewhere or are described with different vocabulary. PaperFinder collects paper metadata from two independent sources  the arXiv API and the Semantic Scholar Graph API  integrates and deduplicates them into a single corpus, and provides ranked full-text search over titles and abstracts using three retrieval models (Boolean, TF-IDF vector space, BM25), plus K-means topic clustering and a quantitative + qualitative evaluation.
 
 ## Pipeline
 
@@ -40,7 +40,7 @@ python -m src.collect.run        # build the corpus (~10 minutes)
 
 Optional: export a free Semantic Scholar API key as `S2_API_KEY` for faster,
 steadier collection (https://www.semanticscholar.org/product/api). Works
-without one too — the client backs off and retries on rate limits.
+without one too  the client backs off and retries on rate limits.
 
-*Documentation grows with the project — full methodology, evaluation results,
+*Documentation grows with the project  full methodology, evaluation results,
 and deployment guide land before submission.*
