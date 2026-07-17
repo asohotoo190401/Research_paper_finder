@@ -1,0 +1,124 @@
+[
+  {
+    "query": "hallucination detection in large language models",
+    "relevant": [
+      "arxiv:2607.11414",
+      "arxiv:2607.10476",
+      "arxiv:2607.04029",
+      "arxiv:2607.03325",
+      "arxiv:2401.06855",
+      "arxiv:2607.07507",
+      "arxiv:2310.06827",
+      "arxiv:2607.07993",
+      "arxiv:2506.05243",
+      "s2:00b7b5cb6c183a2935021567faf4f694de8e5b19"
+    ]
+  },
+  {
+    "query": "retrieval augmented generation",
+    "relevant": [
+      "arxiv:2607.12334",
+      "arxiv:2607.11783",
+      "arxiv:2607.11683",
+      "arxiv:2607.11464",
+      "arxiv:2607.10798",
+      "arxiv:2607.01852",
+      "s2:0119d17315b4dc3a0878e1e3552a3c3f9e5ee950",
+      "arxiv:2607.11159",
+      "arxiv:2606.14817",
+      "arxiv:2502.14902",
+      "arxiv:2606.30093",
+      "s2:027e8e1a1e5a534a700558be5a594577586167cc",
+      "arxiv:2504.13587",
+      "arxiv:2512.10422",
+      "arxiv:2606.03307"
+    ]
+  },
+  {
+    "query": "text to image diffusion models",
+    "relevant": [
+      "arxiv:2607.03752",
+      "arxiv:2607.08337",
+      "arxiv:2607.08056",
+      "arxiv:2607.11886",
+      "arxiv:2607.10535",
+      "arxiv:2509.06904",
+      "arxiv:2310.03502",
+      "arxiv:2411.18810"
+    ]
+  },
+  {
+    "query": "reinforcement learning from human feedback",
+    "relevant": [
+      "arxiv:2607.08647",
+      "arxiv:2607.08373",
+      "arxiv:2607.07693",
+      "arxiv:2607.11267"
+    ]
+  },
+  {
+    "query": "adversarial attacks on neural networks",
+    "relevant": [
+      "s2:010c919ef1c0476a00b9d3c47ffe1152858b78d9",
+      "arxiv:2206.01832",
+      "arxiv:2201.05071",
+      "arxiv:2403.16569",
+      "arxiv:2107.09804",
+      "s2:00854b5fb2b36f9d638128e5dfae39d1470ad017",
+      "s2:00d61820885ae8b8fbb6189374073fc8a0a0441f",
+      "s2:0083b30fcbc2be659d5a331e66eeb1654c63bd46",
+      "arxiv:2506.11892",
+      "arxiv:2607.07922"
+    ]
+  },
+  {
+    "query": "federated learning and privacy",
+    "relevant": [
+      "arxiv:2606.15277",
+      "arxiv:2607.12112",
+      "arxiv:2607.12111",
+      "arxiv:2607.10467",
+      "arxiv:2607.08595",
+      "arxiv:2607.08219",
+      "arxiv:2607.08137",
+      "s2:003556a2025e5ef8d70174f1e137fbdf064c671b",
+      "s2:0020bb1eedfa8839b6b94f576ae21d2998240008",
+      "arxiv:2303.14453",
+      "arxiv:2206.07975",
+      "s2:00376b44b533f5c51aebcf23c6714cbf5174685b",
+      "s2:002019b0142b04acbc7afa17391949d518183f20"
+    ]
+  },
+  {
+    "query": "code generation with large language models",
+    "relevant": [
+      "arxiv:2002.05442",
+      "arxiv:2607.10674",
+      "s2:014a298459e1e9494734cf9fd5a987b40e021478",
+      "arxiv:2607.10210",
+      "arxiv:2407.10424",
+      "arxiv:2607.09452"
+    ]
+  },
+  {
+    "query": "sentiment analysis of social media",
+    "relevant": [
+      "arxiv:2607.07772",
+      "arxiv:2607.04566",
+      "arxiv:2607.12295",
+      "s2:0010ab98621bd8fa34de6b15e15b9da7fd28b4b3",
+      "s2:002a6d3986bd44457cb86cb3e6a981a073750e6b",
+      "s2:090c1bcd8ec96a9fda9209d72d4dadeeccb50236",
+      "s2:012a875d978238e24d883cea7253882f70b32484",
+      "s2:00c8d98d58df6e279baae0e2089e16c5583c2aa2",
+      "s2:010d93c6bd0520de07879d5d45413ce015077191",
+      "s2:0154f95bf194a1b7bc3acdd3a7f8a67db7269376",
+      "s2:03e7a27b1d2f0696dbc87dfbcc72d53fbff1739e",
+      "s2:0549c56b1a7c36df0927798131f53e94b69d0aec",
+      "s2:08fb3ee1db30db60ba778a8491b8ef5ae04ed36d",
+      "s2:011b2ba45a9caba6fa1841a76d0e9663cdeec0cc",
+      "s2:0212f26ffaf6863351046e11fb4d8f11cc311a7f",
+      "s2:04551feec275f9318ff43751f9344900139dfc54"
+    ]
+  }
+]
